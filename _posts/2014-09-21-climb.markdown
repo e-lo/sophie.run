@@ -1,0 +1,8 @@
+---
+layout: default
+img: s-climb.jpg
+category: Activities
+title: Climbing
+description: |
+---
+  I love climbing. Especially on granite and in Yosemite.

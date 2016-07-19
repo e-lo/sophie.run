@@ -1,0 +1,8 @@
+---
+layout: default
+img: s-run.jpg
+category: Activities
+title: Running
+description: |
+---
+I love running, especially on trails with alpine views.

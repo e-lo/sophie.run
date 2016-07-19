@@ -1,0 +1,8 @@
+---
+layout: default
+img: s-bike.jpg
+category: Activities
+title: Biking
+description: |
+---
+I love biking. Especially on mountains.
